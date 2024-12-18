@@ -1,10 +1,10 @@
 {
   "name": "express_typescript_example",
-  "main": "lib/server.js",
+  "main": "dist/server.js",
   "scripts": {
     "dev": "ts-node src/server.ts",
     "build": "tsc",
-    "start": "node lib/server.js"
+    "start": "node dist/server.js"
   },
   "keywords": [],
   "author": "",
